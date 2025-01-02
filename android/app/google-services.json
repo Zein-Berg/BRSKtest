@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900757153916",
+    "project_id": "brsk-test-2",
+    "storage_bucket": "brsk-test-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900757153916:android:854847c75b35c770bc41f9",
+        "android_client_info": {
+          "package_name": "com.example.brsk_test_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWGwkNyuS-zxQQO2u3iiP3qItkewAIdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
